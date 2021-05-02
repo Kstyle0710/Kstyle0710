@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kstyle0710
 - 👀 I’m interested in Django, NLP, Data Analysis with using Python
-- 🌱 I’m currently learning Python, React, Docker, etc.
+- 🌱 I’m currently learning Python, Vue, Docker, etc.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
